@@ -4,3 +4,4 @@ Bucket list
 3.learning a language
 5.visit paris
 6.mumbai
+7.Django
